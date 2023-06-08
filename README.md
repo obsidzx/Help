@@ -1,4 +1,4 @@
-# HelpExam Management System Help Documentation
+#Exam Management System Help Documentation
 ========================================
 
 Welcome to the Exam Management System Help Documentation. This documentation provides guidance on using the features and functionalities of the Exam Management System.
