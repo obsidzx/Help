@@ -1,9 +1,9 @@
-Exam Management System Help Documentation
+ExamFinity Help Documentation
 ========================================
 
-Welcome to the Exam Management System Help Documentation. This guide provides information on how to use the system effectively for both administrators and students. Please refer to the appropriate section below based on your role.
+Welcome to the ExamFinity Help Documentation. This guide provides information on how to use the system effectively for both administrators and students. Please refer to the appropriate section below based on your role.
 
-Administrator Functions:
+1. Administrator Functions
 
 1.1. Adding New Questions:
 
@@ -32,7 +32,8 @@ Scroll through the questions using the vertical scrollbar. And sort by name and 
 To view student details, click on the "Student Details" button on the main screen.
 The Student Details window will display the information of all the students.
 Scroll through the student details using the vertical scrollbar.
-Student Functions:
+
+2. Student Functions
 
 2.1. Filling out Student Details:
 
@@ -57,7 +58,8 @@ Click on the "Next" button to move to the next question.
 You can use the "Back" button to go back to the previous question.
 If you wish to submit the exam before completing all the questions, click on the "Submit" button.
 Once you have answered all the questions or submitted the exam, your score will be displayed.
-Exam Management System Files:
+
+3. Exam Management System Files
 
 3.1. StudentDetails.txt:
 
@@ -71,10 +73,10 @@ The "questions.txt" file stores the questions, options, and correct answers for 
 As a student, you do not need to directly interact with this file. The exam questions are presented to you through the Exam window.
 
 Conclusion:
-This documentation provides an overview of the Exam Management System and its functionality from both the administrator and student perspectives. Use the instructions provided to add and manage questions as an administrator or fill out student details and take the exam as a student. Enjoy using the Exam Management System for your assessments and exams.
+This documentation provides an overview of the ExamFinity and its functionality from both the administrator and student perspectives. Use the instructions provided to add and manage questions as an administrator or fill out student details and take the exam as a student. Enjoy using the ExamFinity for your assessments and exams.
 
-We hope this help documentation assists you in effectively using the Exam Management System. If you need any further assistance, please contact our support team.
+We hope this help documentation assists you in effectively using the ExamFinity. If you need any further assistance, please contact our support team.
 
 Best regards,
 
-Exam Management System Development Team
+ExamFinity Development Team
